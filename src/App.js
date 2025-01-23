@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
 
 const App = () => {
   return (
-    <div>Feature 1</div>
-  )
-}
+    <div>
+      App
+      <div> feature 2 by main</div>
+    </div>
+  );
+};
 
 export default App
